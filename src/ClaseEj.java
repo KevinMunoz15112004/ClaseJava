@@ -6,6 +6,6 @@ public class ClaseEj {
         System.out.println("Hola Mundo");
         System.out.println("Gracias");
         sc.close();
-
+//hola a todos
     }
 }
