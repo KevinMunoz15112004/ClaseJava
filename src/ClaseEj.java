@@ -5,5 +5,6 @@ public class ClaseEj {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hola Mundo");
         sc.close();
+
     }
 }
